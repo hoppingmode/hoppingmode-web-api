@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules
+
+# Builds
+dist
+
+# IDE
+.vscode/
+.github/
+.husky/
+thunder-tests/
+scripts/
+.git*
+.eslintrc.js
+.prettierrc.js
+*.md
